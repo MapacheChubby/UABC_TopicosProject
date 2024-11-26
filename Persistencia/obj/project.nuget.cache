@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdpTjirTaCE=",
+  "dgSpecHash": "Z53O3IFRf4g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\krono\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

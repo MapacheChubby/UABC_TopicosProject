@@ -19,7 +19,11 @@ namespace ProyectoTopicos
 
         private void BotonRegresar_Click(object sender, EventArgs e)
         {
+            PaginaPrincipal paginaPrincipal = new PaginaPrincipal();
 
+            paginaPrincipal.Show();
+
+            this.Close();
         }
 
         private void BotonAgregar_Click(object sender, EventArgs e)

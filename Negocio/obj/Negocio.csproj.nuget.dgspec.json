@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Negocio\\Negocio.csproj": {}
+    "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\Negocio\\Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Negocio\\Negocio.csproj": {
+    "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Negocio\\Negocio.csproj",
-        "packagesPath": "C:\\Users\\krono\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Negocio\\obj\\",
+        "projectPath": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\Negocio\\Negocio.csproj",
+        "packagesPath": "C:\\Users\\yulir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\krono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yulir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,18 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

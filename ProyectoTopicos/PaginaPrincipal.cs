@@ -39,17 +39,29 @@ namespace ProyectoTopicos
 
         private void BotonCatalogoFacultades_Click(object sender, EventArgs e)
         {
+            CatalogoFacultades catalogoFacultades = new CatalogoFacultades();
 
+            catalogoFacultades.Show();
+
+            this.Hide();
         }
 
         private void BotónCatálogoMaterias_Click(object sender, EventArgs e)
         {
+            CatalogoMaterias catalogoMaterias = new CatalogoMaterias();
 
+            catalogoMaterias.Show();
+
+            this.Hide();
         }
 
         private void BotonCatálogoPrácticas_Click(object sender, EventArgs e)
         {
+            CatalogoPracticas catalogoPracticas = new CatalogoPracticas();
 
+            catalogoPracticas.Show();
+
+            this.Hide();
         }
     }
 }

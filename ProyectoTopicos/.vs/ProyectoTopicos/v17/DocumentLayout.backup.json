@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\ProyectoTopicos\\",
+  "WorkspaceRootPath": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|ProyectoTopicos.csproj|c:\\users\\krono\\onedrive\\documentos\\1189750\\proyecto\\uabc_topicosproject\\proyectotopicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|ProyectoTopicos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\catalogofacultades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogofacultades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\catalogofacultades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogofacultades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\yulir\\onedrive\\documentos\\github\\uabc_topicosproject\\proyectotopicos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +50,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -35,13 +75,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\ProyectoTopicos\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\ProyectoTopicos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Title": "CatalogoPracticas.cs",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs",
+              "RelativeDocumentMoniker": "CatalogoPracticas.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs",
+              "RelativeToolTip": "CatalogoPracticas.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA9wB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:00:24.706Z",
+              "WhenOpened": "2024-11-26T21:58:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogoPracticas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs",
+              "RelativeDocumentMoniker": "CatalogoPracticas.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CatalogoPracticas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:58:38.046Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogoMaterias.cs",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs",
+              "RelativeDocumentMoniker": "CatalogoMaterias.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs",
+              "RelativeToolTip": "CatalogoMaterias.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:58:28.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogoMaterias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs",
+              "RelativeDocumentMoniker": "CatalogoMaterias.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CatalogoMaterias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:58:26.532Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogoFacultades.cs",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoFacultades.cs",
+              "RelativeDocumentMoniker": "CatalogoFacultades.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoFacultades.cs",
+              "RelativeToolTip": "CatalogoFacultades.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:57:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogoFacultades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoFacultades.cs",
+              "RelativeDocumentMoniker": "CatalogoFacultades.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoFacultades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CatalogoFacultades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:57:47.549Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\PaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "PaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\PaginaPrincipal.cs",
+              "RelativeToolTip": "PaginaPrincipal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:56:34.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\PaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "PaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\PaginaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaginaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:56:32.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:54:45.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\yulir\\OneDrive\\Documentos\\GitHub\\UABC_TopicosProject\\ProyectoTopicos\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:54:41.777Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
