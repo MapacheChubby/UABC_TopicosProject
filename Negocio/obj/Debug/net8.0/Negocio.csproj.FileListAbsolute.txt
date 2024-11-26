@@ -1,0 +1,6 @@
+C:\Users\ThinkCentre\Source\Repos\MapacheChubby\UABC_TopicosProject\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\ThinkCentre\Source\Repos\MapacheChubby\UABC_TopicosProject\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkCentre\Source\Repos\MapacheChubby\UABC_TopicosProject\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\ThinkCentre\Source\Repos\MapacheChubby\UABC_TopicosProject\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\ThinkCentre\Source\Repos\MapacheChubby\UABC_TopicosProject\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ThinkCentre\Source\Repos\MapacheChubby\UABC_TopicosProject\Negocio\obj\Debug\net8.0\Negocio.sourcelink.json
