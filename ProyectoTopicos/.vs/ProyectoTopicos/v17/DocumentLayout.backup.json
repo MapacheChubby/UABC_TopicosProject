@@ -1,10 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\ProyectoTopicos\\",
+  "WorkspaceRootPath": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|ProyectoTopicos.csproj|c:\\users\\krono\\onedrive\\documentos\\1189750\\proyecto\\uabc_topicosproject\\proyectotopicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|ProyectoTopicos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\thinkcentre\\source\\repos\\mapachechubby\\uabc_topicosproject\\proyectotopicos\\catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogopracticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\thinkcentre\\source\\repos\\mapachechubby\\uabc_topicosproject\\proyectotopicos\\catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|c:\\users\\thinkcentre\\source\\repos\\mapachechubby\\uabc_topicosproject\\proyectotopicos\\catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862E4B2B-491E-42E5-ACFF-0DCC2C9C92E6}|Presentacion.csproj|solutionrelative:catalogomaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF4098C-1FE8-4195-B113-CD45663CC8FB}|..\\Negocios\\Negocios.csproj|c:\\users\\thinkcentre\\source\\repos\\mapachechubby\\uabc_topicosproject\\negocios\\universidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E797F8C5-7C55-4B31-8573-AFE204D69644}|..\\Persistancia\\Persistancia.csproj|c:\\users\\thinkcentre\\source\\repos\\mapachechubby\\uabc_topicosproject\\persistancia\\universidaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +32,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -30,19 +52,101 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogoMaterias.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs",
+              "RelativeDocumentMoniker": "CatalogoMaterias.cs",
+              "ToolTip": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs",
+              "RelativeToolTip": "CatalogoMaterias.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwGsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:06:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogoMaterias.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs",
+              "RelativeDocumentMoniker": "CatalogoMaterias.cs",
+              "ToolTip": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoMaterias.cs [Design]",
+              "RelativeToolTip": "CatalogoMaterias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:06:36.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogoPracticas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs",
+              "RelativeDocumentMoniker": "CatalogoPracticas.cs",
+              "ToolTip": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs [Design]",
+              "RelativeToolTip": "CatalogoPracticas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:28:52.203Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\ProyectoTopicos\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\ProyectoTopicos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Title": "CatalogoPracticas.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs",
+              "RelativeDocumentMoniker": "CatalogoPracticas.cs",
+              "ToolTip": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\ProyectoTopicos\\CatalogoPracticas.cs",
+              "RelativeToolTip": "CatalogoPracticas.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAqwK4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:00:24.706Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-29T03:57:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversidadDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\Persistancia\\UniversidadDAO.cs",
+              "RelativeDocumentMoniker": "..\\Persistancia\\UniversidadDAO.cs",
+              "ToolTip": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\Persistancia\\UniversidadDAO.cs*",
+              "RelativeToolTip": "..\\Persistancia\\UniversidadDAO.cs*",
+              "ViewState": "AgIAADYBAAAAAAAAAAAAwCcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:58:38.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversidadService.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\Negocios\\UniversidadService.cs",
+              "RelativeDocumentMoniker": "..\\Negocios\\UniversidadService.cs",
+              "ToolTip": "C:\\Users\\ThinkCentre\\source\\repos\\MapacheChubby\\UABC_TopicosProject\\Negocios\\UniversidadService.cs*",
+              "RelativeToolTip": "..\\Negocios\\UniversidadService.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAmwF8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:29:20.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 920,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

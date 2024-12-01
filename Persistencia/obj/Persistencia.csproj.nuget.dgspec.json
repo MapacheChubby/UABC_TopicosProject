@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Users\\ThinkCentre\\Source\\Repos\\MapacheChubby\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\ThinkCentre\\Source\\Repos\\MapacheChubby\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkCentre\\Source\\Repos\\MapacheChubby\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\krono\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krono\\OneDrive\\Documentos\\1189750\\Proyecto\\UABC_TopicosProject\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\ThinkCentre\\Source\\Repos\\MapacheChubby\\UABC_TopicosProject\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\ThinkCentre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThinkCentre\\Source\\Repos\\MapacheChubby\\UABC_TopicosProject\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\krono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThinkCentre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,12 +43,18 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,18 +66,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
